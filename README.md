@@ -12,4 +12,4 @@ Also, this will not work until you have triggered at least one loading screen yo
 4. Add a `Scriptable Auto Splitter` found under `Control`
 5. Open Layout settings
 6. Under `Timer`, Change Timing Method to Game Time
-7. Under `Scriptable Auto Apliter`, click the checkbox to enable load time removal
+7. Under `Scriptable Auto Splitter`, click the checkbox to enable load time removal
