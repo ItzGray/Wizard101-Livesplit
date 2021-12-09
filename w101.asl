@@ -9,7 +9,7 @@ startup {
 
 isLoading
 {   
-    if (settings["removeLoads"] && current.loading == 1){
+    if (settings["removeLoads"] && current.loading == 1 && current.loading2 == 1){
         return true;
     }
     else{
